@@ -1,0 +1,16 @@
+{
+  "name": "email-placeholder",
+  "version": "1.0.0",
+  "description": "Email placeholder",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jay Oram",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  }
+}
