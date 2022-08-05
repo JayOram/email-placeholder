@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "name": "email-placeholder",
+    "builds": [
+       { "src": "app.js", "use": "@vercel/node" }
+    ]
+ }
